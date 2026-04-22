@@ -1,0 +1,6 @@
+studentId,name,branch,marks1,marks2,marks3,marks4,marks5,percentage
+1,John,CSE,80,85,90,70,70,79.0
+3,Bob,ECE,60,65,70,0,0,39.0
+4,Emma,ME,88,77,66,0,0,46.2
+5,Liam,CE,90,92,85,0,0,53.4
+6,Noah,IT,78,80,82,0,0,48.0
