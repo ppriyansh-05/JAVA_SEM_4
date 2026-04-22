@@ -1,16 +1,21 @@
 # JAVA SEM 4 Assignments
 
-## 📁 Assignments
+## 📌 Description
+This repository contains all Java assignments for Semester 4.
 
-- A1: Calculator
-- A2: Vehicle
-- A3: Book
-- A4: Vector
-- A5: Banking
-- A6: Employee
-- A7: Student Record
-- A8: Inventory (Design Patterns)
-- A9: JDBC
-- A10: JavaFX
+## 📂 Structure
+- A1_Calculator → Basic calculator program
+- A2_Vehicle → OOP concepts
+- A3_Book → Exception handling & collections
+- A4_Vector → Vector operations
+- A5_Banking → Banking system (OOP)
+- A6_Employee → Inheritance & polymorphism
+- A7_StudentRecord → File handling (CSV CRUD)
+- A8_Inventory → Design Patterns (Singleton, Adapter, Iterator)
+- A9_JDBC → Database connectivity
+- A10_JavaFX → GUI application
 
-Each folder contains the respective assignment code.
+## 🛠 Technologies Used
+- Java
+- JavaFX
+- JDBC
